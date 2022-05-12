@@ -1,4 +1,4 @@
-# Python Pattern Program Printing Stars in "A" Shape
+# Python Pattern Program Printing Stars in "B" Shape
 
 for r in range(7):
     for c in range(5):

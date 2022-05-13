@@ -1,5 +1,5 @@
-#Date 13/05/2022 
-#Python Pattern Program that prints "G" letter
+
+# Python Pattern Program Printing Stars in "G" Shape.
 
 for r in range(7):
 	for c in range(5):

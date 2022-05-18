@@ -1,4 +1,4 @@
-#Python Pattern Program that prints "W" letter
+# Python Pattern Program Printing Stars in "W" Shape
 
 for r in range(4):
 	for c in range(7):

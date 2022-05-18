@@ -1,4 +1,4 @@
-#Python Pattern Program that prints "Y" letter
+# Python Pattern Program Printing Stars in "Y" Shape
 
 for r in range(5):
 	for c in range(5):

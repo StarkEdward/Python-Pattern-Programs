@@ -1,4 +1,4 @@
-#Python Pattern Program that prints "Z" letter
+#Pyt# Python Pattern Program Printing Stars in "Z" Shape
 
 for r in range(6):
 	for c in range(6):

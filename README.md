@@ -1,4 +1,4 @@
 # Python-Pattern-Programs
-  A to Z Shape '*' (Star) Patterns
-  [A-Shape]
+ to Z Shape '*' (Star) Patterns
+ 
   and other Patterns
